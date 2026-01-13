@@ -1,1 +1,2 @@
-[![CoderElectronics's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderElectronics)]()
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
