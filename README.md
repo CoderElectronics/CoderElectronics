@@ -4,6 +4,8 @@ I'm an ECE student at Georgia Tech who likes to build things that really shouldn
 
 **Computer Vision & ML** | **Hardware Design** | **Robotics & Autonomous Systems** | **Drones/UAVs** | **Rapid Prototyping**
 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,linux,python,pytorch,tensorflow,ros,go,rust,js,css,html,bun)](https://skillicons.dev)
+
 ---
 
 *"To ask the right question is harder than to answer it." — George Cantor*
